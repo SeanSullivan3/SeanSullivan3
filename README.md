@@ -5,7 +5,7 @@ Thank you for taking a moment to look at my some of my personal projects and lea
 
 
 ## Software Projects
-Applications, algorithms, and useful programs I built to 
+Applications, algorithms, and programs I built to be useful and fun for anyone to try!
 
 ### ✈️ [Vacation Planner](https://github.com/SeanSullivan3/vacation-planner)
 * This project is a Python and HTML web application that can help you plan an optimal route throughout various user-chosen popular tourist activities for any of 300+ cities world-wide!!
