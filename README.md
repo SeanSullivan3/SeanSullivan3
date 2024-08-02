@@ -14,7 +14,7 @@ Applications, algorithms, and programs I built to be useful and fun for anyone t
 * Are you ever frustrated because your friends aren't any good at euchre? This project is JavaScript game application that uses React.js to construct an interactive user interface for a user to play with intelligent bots I designed for the game euchre.
 
 ### 🤖 [Openai Webpage Conclusions](https://github.com/SeanSullivan3/openai-webpage-conclusions)
-* Curious about how to leverage webscraping to learn about website design? This project is Python program that webscrapes data from a collection of websites and uses chatGPT to help draw important business conclusions about web design and industry relevant information.
+* Curious about how to leverage webscraping to learn about website design? This project is Python program that webscrapes data from a collection of websites and uses Openai's API to help draw important business conclusions about web design and industry relevant information.
 
 ## Data Science Projects
 Data analysis and visualization projects that I hope help you learn something new today!
