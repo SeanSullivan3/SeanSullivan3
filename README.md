@@ -10,7 +10,7 @@ Applications, algorithms, and programs I built to be useful and fun for anyone t
 ### ✈️ [Vacation Planner](https://github.com/SeanSullivan3/vacation-planner)
 * Looking to go on vacation? This project is a Python and HTML web application that can help you plan an optimal route throughout various user-chosen popular tourist activities for any of 300+ cities world-wide!!
 
-### 🃏 [Euchre App](https://github.com/SeanSullivan3/euchre-app)  In Progress...
+### 🃏 [Euchre App](https://github.com/SeanSullivan3/euchre-app)  (In Progress...)
 * Are you ever frustrated because your friends aren't any good at euchre? This project is JavaScript game application that uses React.js to construct an interactive user interface for a user to play with intelligent bots I designed for the game euchre.
 
 ### 🤖 [Openai Webpage Conclusions](https://github.com/SeanSullivan3/openai-webpage-conclusions)
