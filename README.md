@@ -8,21 +8,13 @@ Thank you for taking a moment to look at my some of my personal projects and lea
 Applications, algorithms, and programs I built to be useful and fun for anyone to try!
 
 ### ✈️ [Vacation Planner](https://github.com/SeanSullivan3/vacation-planner)
-* This project is a Python and HTML web application that can help you plan an optimal route throughout various user-chosen popular tourist activities for any of 300+ cities world-wide!!
-* Skills I learned:
-  * Webscraping in Python
-  * HTML + CSS + JS web design
-  * Implementing greedy algorithms + applications in graph theory
-  * Utilizing the google maps API
-  * Flask + jinja framework
-* Enjoyment rating: 9/10
+* Looking to go on vacation? This project is a Python and HTML web application that can help you plan an optimal route throughout various user-chosen popular tourist activities for any of 300+ cities world-wide!!
+
+### 🃏 [Euchre App](https://github.com/SeanSullivan3/euchre-app)  In Progress...
+* Are you ever frustrated because your friends aren't any good at euchre? This project is JavaScript game application that uses React.js to construct an interactive user interface for a user to play with intelligent bots I designed for the game euchre.
 
 ### 🤖 [Openai Webpage Conclusions](https://github.com/SeanSullivan3/openai-webpage-conclusions)
-* This project is Python program that webscrapes data from a collection of websites and uses chatGPT to help draw important business conclusions about web design and industry relevant information.
-* Skills I learned:
-  * Webscraping in Python
-  * Utilizing openai's API for chatGPT
-* Enjoyment rating: 7/10
+* Curious about how to leverage webscraping to learn about website design? This project is Python program that webscrapes data from a collection of websites and uses chatGPT to help draw important business conclusions about web design and industry relevant information.
 
 ## Data Science Projects
 Data analysis and visualization projects that I hope help you learn something new today!
