@@ -13,7 +13,7 @@ Applications, algorithms, and programs I built to be useful and fun for anyone t
 ### 🃏 [Euchre App](https://github.com/SeanSullivan3/euchre-app)  (In Progress...)
 * Are you ever frustrated because your friends aren't any good at euchre? This project is JavaScript game application that uses React.js to construct an interactive user interface for a user to play with intelligent bots I designed for the game euchre.
 
-### 🤖 [OpenAi Webpage Conclusions](https://github.com/SeanSullivan3/openai-webpage-conclusions)
+### 🤖 [OpenAI Webpage Conclusions](https://github.com/SeanSullivan3/openai-webpage-conclusions)
 * Curious about how to leverage webscraping to learn about website design? This project is Python program that webscrapes data from a collection of websites and uses Openai's API to help draw important business conclusions about web design and industry relevant information.
 
 ## Data Science Projects
@@ -32,7 +32,7 @@ This past summer I have dove into the world of learning how software engineers b
 * This project is an example of a saga pattern for a distributed system that simulates booking a cab through a ride service. Originally, this saga was implemented in Orkes Conductor framework (another durable execution platform), I translated the Conductor code into the Temporal framework and reworked the back-end.
 
 ### 💬 [AI Chatbot](https://github.com/SeanSullivan3/temporal-openai-java)
-* This project is a Java web application that uses OpenAi's API to respond to user-entered questions. I translated this project from Python when I began learning to use Temporal.
+* This project is a Java web application that uses OpenAI's API to respond to user-entered questions. I translated this project from Python when I began learning to use Temporal.
 
 ### 🎛️ Python Backend for [Food Delivery](https://github.com/SeanSullivan3/food-delivery/tree/python_backend) and [Order Management](https://github.com/SeanSullivan3/temporal-order-management/tree/python_backend) Services
 * Built a Temporal backend in Python for these two example services.
