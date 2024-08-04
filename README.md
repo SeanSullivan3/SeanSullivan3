@@ -19,7 +19,8 @@ Applications, algorithms, and programs I built to be useful and fun for anyone t
 ## Data Science Projects
 Data analysis and visualization projects that I hope help you learn something new today!
 
-Coming soon...
+### ⚽️ [Copa America 2024 Statisitical Analysis](https://github.com/SeanSullivan3/copa-2024-data-analysis)  (In Progress...)
+* What determines tournament success at the highest level of soccer? In this project use Python's advanced data visualization and analysis libraries in Jupyter Notebook to write a statistical report on the determinants of success and failure for the 16 teams in the 2024 Copa America tournament. 
 
 ## Temporal Projects
 Code translation projects and project-based learning repositories all about the [Temporal](https://temporal.io/) framework.  
