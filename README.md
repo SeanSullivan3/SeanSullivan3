@@ -10,7 +10,7 @@ Applications, algorithms, and programs I built to be useful and fun for anyone t
 ### ✈️ [Vacation Planner](https://github.com/SeanSullivan3/vacation-planner)
 * Looking to go on vacation? This project is a Python and HTML web application that can help you plan an optimal route throughout various user-chosen popular tourist activities for any of 300+ cities world-wide!!
 
-### 🃏 [Euchre App](https://github.com/SeanSullivan3/euchre-app)  (In Progress...)
+### 🃏 [Euchre App](https://github.com/SeanSullivan3/euchre-app)
 * Are you ever frustrated because your friends aren't any good at euchre? This project is JavaScript game application that uses React.js to construct an interactive user interface for a user to play with intelligent bots I designed for the game euchre.
 
 ### 🤖 [OpenAI Webpage Conclusions](https://github.com/SeanSullivan3/openai-webpage-conclusions)
@@ -20,7 +20,10 @@ Applications, algorithms, and programs I built to be useful and fun for anyone t
 Data analysis and visualization projects that I hope help you learn something new today!
 
 ### ⚽️ [Copa America 2024 Statisitical Analysis](https://github.com/SeanSullivan3/copa-2024-data-analysis)  (In Progress...)
-* What determines tournament success at the highest level of soccer? In this project I use Python's advanced data visualization and analysis libraries in Jupyter Notebook to write a statistical report on the determinants of success and failure for the 16 teams in the 2024 Copa America tournament.
+* What determines tournament success at the highest level of soccer? In this project I use Python's advanced data visualization and analysis libraries in Jupyter Notebook to write a statistical report on the determinants of success and failure for the 16 teams in the 2024 Copa America tournament.  
+
+### 📈 [Market Volatility Trends Statistical Analysis](https://github.com/SeanSullivan3/market-volatility-data-analysis)  (In Progress...)
+* Can we statistically predict the future daily returns and market volatility of the S&P500 using historical data? In this project I use Python's advanced data analysis and statistics libraries to analyze trends in market returns and volatility with inferential statisitics and probability theory.
 
 ## Temporal Projects
 Code translation projects and project-based learning repositories all about the [Temporal](https://temporal.io/) framework.  
